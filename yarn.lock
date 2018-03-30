@@ -9452,6 +9452,10 @@ void-elements@^2.0.0, void-elements@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/void-elements/-/void-elements-2.0.1.tgz#c066afb582bb1cb4128d60ea92392e94d5e9dbec"
 
+vue-awesome@^2.3.4:
+  version "2.3.5"
+  resolved "https://registry.yarnpkg.com/vue-awesome/-/vue-awesome-2.3.5.tgz#fe7fcf185cff794cb37a3c45d16eeb851e94fd9c"
+
 vue-docgen-api@^2.3.4:
   version "2.3.4"
   resolved "https://registry.yarnpkg.com/vue-docgen-api/-/vue-docgen-api-2.3.4.tgz#3d0ce5801078c5f69421ee41416173723ebf37ce"
