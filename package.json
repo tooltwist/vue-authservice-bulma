@@ -1,9 +1,10 @@
 {
-  "name": "authservice-vue",
+  "name": "vue-authservice-bulma",
   "version": "0.0.6",
   "description": "Vue components for Authservice.io",
   "author": "Philip Callender <philip.callender@tooltwist.com>",
   "main": "dist/authservice-vue.min.js",
+  "module": "dist/authservice-vue.min.js",
   "license": "MIT",
   "scripts": {
     "lint": "eslint src/**/*.vue",
